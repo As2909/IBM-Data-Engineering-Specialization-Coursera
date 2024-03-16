@@ -35,5 +35,5 @@ This Professional Certificate contains 13 courses, as follows:
 ## Contact
 
 Ankit Sharma - ankitsharma290997@gmail.com
-Linkedin: [locnd172](https://www.linkedin.com/in/ankit-sharma-a99222192/)
+Linkedin: [Ankit-Sharma](https://www.linkedin.com/in/ankit-sharma-a99222192/)
 
