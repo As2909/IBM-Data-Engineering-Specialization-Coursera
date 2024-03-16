@@ -30,10 +30,10 @@ This Professional Certificate contains 13 courses, as follows:
 
 ## Certification
 
-![Loc Nguyen's Certification](./Assets/IBM_Data_Engineer_Certification.jpg)
+![Ankit Sharma Certification](./Assets/IBM-Data-Engineering-Certificate.jpg)
 
 ## Contact
 
-Loc Nguyen Dang - lc.nguyedang123@gmail.com
-Linkedin: [locnd172](https://www.linkedin.com/in/locnd172/)
-Facebook: [Lộc](https://www.facebook.com/)
+Ankit Sharma - ankitsharma290997@gmail.com
+Linkedin: [locnd172](https://www.linkedin.com/in/ankit-sharma-a99222192/)
+
