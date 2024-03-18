@@ -14,6 +14,7 @@ Write a function log_progress() to log the progress of the code at different sta
 - a. Inspect the webpage and identify the position and pattern of the tabular information in the HTML code.
 
 ![alt text](/Course 03 Python Project for Data Engineer/Week 2/Project Images/Task_2a_extract.png)
+![Ankit Sharma Certification](./Course 03 Python Project for Data Engineer/Week 2/Project Images/Task_2a_extract.png)
 - b. Write the code for a function extract() to perform the required data extraction.
  -c. Execute a function call to extract() to verify the output.
 
