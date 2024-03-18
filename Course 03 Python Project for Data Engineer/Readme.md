@@ -12,9 +12,7 @@ Write a function log_progress() to log the progress of the code at different sta
 #### Task 2:
 #### Extract the tabular information from the given URL under the heading 'By market capitalization' and save it to a dataframe.
 - a. Inspect the webpage and identify the position and pattern of the tabular information in the HTML code.
-
-![alt text](/Course 03 Python Project for Data Engineer/Week 2/Project Images/Task_2a_extract.png)
-![Ankit Sharma Certification](./Course 03 Python Project for Data Engineer/Week 2/Project Images/Task_2a_extract.png)
+![alt text]([/Course 03 Python Project for Data Engineer/Week 2/Project Images/Task_2a_extract.png](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2003%20Python%20Project%20for%20Data%20Engineer/Week%202/Project%20Images/Task_2a_extract.png))
 - b. Write the code for a function extract() to perform the required data extraction.
  -c. Execute a function call to extract() to verify the output.
 
