@@ -14,12 +14,18 @@ Write a function log_progress() to log the progress of the code at different sta
 - a. Inspect the webpage and identify the position and pattern of the tabular information in the HTML code.
 ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2003%20Python%20Project%20for%20Data%20Engineer/Week%202/Project%20Images/Task_2a_extract.png)
 - b. Write the code for a function extract() to perform the required data extraction.
- -c. Execute a function call to extract() to verify the output.
+
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2003%20Python%20Project%20for%20Data%20Engineer/Week%202/Project%20Images/Task_2b_extract.png)
+-c. Execute a function call to extract() to verify the output.
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2003%20Python%20Project%20for%20Data%20Engineer/Week%202/Project%20Images/Task_2c_extract.png)
 
 #### Task 3:
 #### Transform the dataframe by adding columns for Market Capitalization in GBP, EUR and INR, rounded to 2 decimal places, based on the exchange rate information shared as a CSV file.
 a. Write the code for a function transform() to perform the said task.
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2003%20Python%20Project%20for%20Data%20Engineer/Week%202/Project%20Images/Task_3a_transform.png)
+
 b. Execute a function call to transform() and verify the output.
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2003%20Python%20Project%20for%20Data%20Engineer/Week%202/Project%20Images/Task_3b_transform.png)
 
 #### Task 4:
 Load the transformed dataframe to an output CSV file. Write a function load_to_csv(), execute a function call and verify the output.
