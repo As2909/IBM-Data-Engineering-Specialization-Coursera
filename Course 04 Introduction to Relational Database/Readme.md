@@ -33,37 +33,48 @@ O​thers:
 - product: product_id, product_category, product_type, product_name, description, price
 3. Task 3A: Submit the screenshot that you took as part of Task 3 and saved as Task3A.png or Task3A.jpg \
 Answer:\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/4%20-%20Introduction%20to%20Relational%20Databases%20(RDBMS)/Week4/exam/Task3A.PNG "Task3A")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2004%20Introduction%20to%20Relational%20Database/Week%204/Task3A.png)
+
 4. Task 3B: Submit the screenshot that you took as part of Task 3 and saved as Task3B.png or Task3B.jpg.\
 Answer:\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/4%20-%20Introduction%20to%20Relational%20Databases%20(RDBMS)/Week4/exam/Task3B.PNG "Task3B")
-5. Task 4A: Submit the screenshot that you took as part of Task 4 and saved as Task4A.png or Task4A.jpg. (2 pts)\
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2004%20Introduction%20to%20Relational%20Database/Week%204/Task3B.png)
+
+6. Task 4A: Submit the screenshot that you took as part of Task 4 and saved as Task4A.png or Task4A.jpg. (2 pts)\
 Answer:\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/4%20-%20Introduction%20to%20Relational%20Databases%20(RDBMS)/Week4/exam/Task4A.PNG "Task4A")
-6. Task 4B: Submit the screenshot that you took as part of Task 4 and saved as Task4B.png or Task4B.jpg. (2 pts)\
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2004%20Introduction%20to%20Relational%20Database/Week%204/Task4A.png)
+
+8. Task 4B: Submit the screenshot that you took as part of Task 4 and saved as Task4B.png or Task4B.jpg. (2 pts)\
 Answer:\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/4%20-%20Introduction%20to%20Relational%20Databases%20(RDBMS)/Week4/exam/Task4B.PNG "Task4B")
-7. Task 5A: Submit the screenshot that you took as part of Task 5 and saved as Task5A.png or Task5A.jpg. (2 pts)\
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2004%20Introduction%20to%20Relational%20Database/Week%204/Task4B.png)
+
+10. Task 5A: Submit the screenshot that you took as part of Task 5 and saved as Task5A.png or Task5A.jpg. (2 pts)\
 Answer:\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/4%20-%20Introduction%20to%20Relational%20Databases%20(RDBMS)/Week4/exam/Task5A.PNG "Task5A")
-8.  Task 5B: Submit the screenshot that you took as part of Task 5 and saved as Task5B.png or Task5B.jpg. (2 pts)\
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2004%20Introduction%20to%20Relational%20Database/Week%204/Task5A.png)
+
+12.  Task 5B: Submit the screenshot that you took as part of Task 5 and saved as Task5B.png or Task5B.jpg. (2 pts)\
 Answer:\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/4%20-%20Introduction%20to%20Relational%20Databases%20(RDBMS)/Week4/exam/Task5B.PNG "Task5B")
-9. Task 6A: Submit the screenshot that you took as part of Task 6 and saved as Task6A.png or Task6A.jpg. (2 pts)\
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2004%20Introduction%20to%20Relational%20Database/Week%204/Task5B.png)
+
+14. Task 6A: Submit the screenshot that you took as part of Task 6 and saved as Task6A.png or Task6A.jpg. (2 pts)\
 Answer:\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/4%20-%20Introduction%20to%20Relational%20Databases%20(RDBMS)/Week4/exam/Task6A.PNG "Task6A")
-10. Task 6B: Submit the screenshot that you took as part of Task 6 and saved as Task6B.png or Task6B.jpg. (2 pts)\
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2004%20Introduction%20to%20Relational%20Database/Week%204/Task6A.png")
+
+16. Task 6B: Submit the screenshot that you took as part of Task 6 and saved as Task6B.png or Task6B.jpg. (2 pts)\
 Answer:\
 ![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/4%20-%20Introduction%20to%20Relational%20Databases%20(RDBMS)/Week4/exam/Task6B.PNG "Task6B")
-11. Task 7: Submit the screenshot that you took as part of Task 7 and saved as Task7.png or Task7.jpg. (4 pts)\
+
+18. Task 7: Submit the screenshot that you took as part of Task 7 and saved as Task7.png or Task7.jpg. (4 pts)\
 Answer:\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/4%20-%20Introduction%20to%20Relational%20Databases%20(RDBMS)/Week4/exam/Task7.PNG "Task7")
-12. Task 8: Submit the screenshot that you took as part of Task 8 and saved as Task8.png or Task8.jpg. (4 pts)\
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2004%20Introduction%20to%20Relational%20Database/Week%204/Task7.png)
+
+20. Task 8: Submit the screenshot that you took as part of Task 8 and saved as Task8.png or Task8.jpg. (4 pts)\
 Answer:\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/4%20-%20Introduction%20to%20Relational%20Databases%20(RDBMS)/Week4/exam/Task8.PNG "Task8")
-13. Task 9: Take Submit the screenshot that you took as part of Task 9 and saved as Task9.png or Task9.jpg. (4 pts)	\
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2004%20Introduction%20to%20Relational%20Database/Week%204/Task8.png)
+
+22. Task 9: Take Submit the screenshot that you took as part of Task 9 and saved as Task9.png or Task9.jpg. (4 pts)	\
 Answer:\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/4%20-%20Introduction%20to%20Relational%20Databases%20(RDBMS)/Week4/exam/Task9.PNG "Task9")
-14. Task 10: Submit the screenshot that you took as part of Task 10 and saved as Task10.png or Task10.jpg. (4 pts)\
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2004%20Introduction%20to%20Relational%20Database/Week%204/Task9.png)
+
+24. Task 10: Submit the screenshot that you took as part of Task 10 and saved as Task10.png or Task10.jpg. (4 pts)\
 Answer:\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/4%20-%20Introduction%20to%20Relational%20Databases%20(RDBMS)/Week4/exam/Task10.PNG "Task10")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2004%20Introduction%20to%20Relational%20Database/Week%204/Task10.png)
