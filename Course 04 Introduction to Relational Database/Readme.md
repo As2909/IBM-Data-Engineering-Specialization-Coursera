@@ -3,7 +3,7 @@ In this assignment, 3 RDBMS (PostgreSQL, IBM Db2 and MySQL) are used. I have to 
 
 ![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/4%20-%20Introduction%20to%20Relational%20Databases%20(RDBMS)/Week4/exam/existing_data.png "Coffee data")
 
-The [tasks](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/edit/main/Course%2004%20Introduction%20to%20Relational%20Database/Task.pdf) are follows: 
+The [tasks](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2004%20Introduction%20to%20Relational%20Database/Task.pdf) are follows: 
 - Identify entities, attributes and create and ERD from the sample data
 - Normalize tables to snowflake schemas
 - Define keys and relationships
