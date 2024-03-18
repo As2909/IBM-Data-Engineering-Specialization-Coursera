@@ -6,7 +6,8 @@ Your job is to create an automated system to generate this information so that t
 ### Project tasks
 #### Task 1:
 Write a function log_progress() to log the progress of the code at different stages in a file code_log.txt. Use the list of log points provided to create log entries as every stage of the code.
-()
+
+(https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2003%20Python%20Project%20for%20Data%20Engineer/Week%202/Project%20Images/1Task_1_log_function.png)
 
 #### Task 2:
 #### Extract the tabular information from the given URL under the heading 'By market capitalization' and save it to a dataframe.
