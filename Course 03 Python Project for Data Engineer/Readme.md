@@ -13,10 +13,13 @@ Write a function log_progress() to log the progress of the code at different sta
 #### Extract the tabular information from the given URL under the heading 'By market capitalization' and save it to a dataframe.
 - a. Inspect the webpage and identify the position and pattern of the tabular information in the HTML code.
 ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2003%20Python%20Project%20for%20Data%20Engineer/Week%202/Project%20Images/Task_2a_extract.png)
+
 - b. Write the code for a function extract() to perform the required data extraction.
 
 ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2003%20Python%20Project%20for%20Data%20Engineer/Week%202/Project%20Images/Task_2b_extract.png)
+
 -c. Execute a function call to extract() to verify the output.
+
 ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2003%20Python%20Project%20for%20Data%20Engineer/Week%202/Project%20Images/Task_2c_extract.png)
 
 #### Task 3:
@@ -28,7 +31,7 @@ b. Execute a function call to transform() and verify the output.
 ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2003%20Python%20Project%20for%20Data%20Engineer/Week%202/Project%20Images/Task_3b_transform.png)
 
 #### Task 4:
-Load the transformed dataframe to an output CSV file. Write a function load_to_csv(), execute a function call and verify the output.
+#### Load the transformed dataframe to an output CSV file. Write a function load_to_csv(), execute a function call and verify the output.
 
 #### Task 5:
 Load the transformed dataframe to an SQL database server as a table. Write a function load_to_db(), execute a function call and verify the output.
