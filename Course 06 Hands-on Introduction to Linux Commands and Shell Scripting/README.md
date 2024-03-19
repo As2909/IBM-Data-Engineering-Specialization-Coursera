@@ -5,6 +5,8 @@ As ABC INC's most trusted linux developer, I have been tasked with creating a sc
 ## Objectives
 - The objective of this lab is to incorporate much of the shell scripting you've learned over this course into a single script.
 - You will schedule your shell script to run every 24 hours using crontab.
+
+- For Task Refer this ![Task](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2006%20Hands-on%20Introduction%20to%20Linux%20Commands%20and%20Shell%20Scripting/Week%204/Task_course_06.pdf)
 ## Answer
 ```bash
 #!/bin/bash
