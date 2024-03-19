@@ -16,7 +16,7 @@ In [the first Hands-on lab](https://github.com/As2909/IBM-Data-Engineering-Speci
 - Task 1.6: Create a task to extract data from fixed width file (2pts)\
 ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2008%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week%205/extract_data_from_fixed_width.png)
 - Task 1.7: Create a task to consolidate data extracted from previous tasks (2pts)\
-![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2008%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week%205consolidated_data.jpg.png)
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2008%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week%205/consolidate_data.jpg.png)
 - Task 1.8: Transform the data (2 pts)\
 For this task, we can use the SELECT function to query the size of the database from information_schema.tables or using the show table status\
 ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2008%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week%205/transform.png)
