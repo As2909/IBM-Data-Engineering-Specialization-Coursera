@@ -77,7 +77,7 @@ tar -czvf $backupFileName ${toBackup[@]}
 mv $backupFileName $destDirAbsPath
 
 ```
-For the original file, please refer to [backup.sh](https://github.com/xzZero/DataEng_IBM/blob/main/6%20-%20Hands-on%20Introduction%20to%20Linux%20Commands%20and%20Shell%20Scripting/week4/backup.sh)
+For the original file, please refer to [backup.sh](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2006%20Hands-on%20Introduction%20to%20Linux%20Commands%20and%20Shell%20Scripting/Week%204/backup.sh)
 List crontab's tasks
 ```bash
 crontab -l 
@@ -87,5 +87,5 @@ Open crontab in editor
 crontab -e 
 ```
 Edit the crontab editor as follow to schedule the backup task to run every 24h\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/6%20-%20Hands-on%20Introduction%20to%20Linux%20Commands%20and%20Shell%20Scripting/week4/17-crontab.jpg "cron")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2006%20Hands-on%20Introduction%20to%20Linux%20Commands%20and%20Shell%20Scripting/Week%204/17-crontab.png)
 
