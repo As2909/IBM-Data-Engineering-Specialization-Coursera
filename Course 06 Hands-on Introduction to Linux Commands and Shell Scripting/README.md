@@ -1,4 +1,4 @@
-## Description
+## Project Description
 In this assignment, I act as a lead linux developer at ABC company. ABC currently suffers from a huge bottleneck - each day, interns must painstakingly access encrypted password files on core servers, and backup those that were updated within the last 24-hours. This introduces human error, lowers security, and takes an unreasonable amount of work.
 
 As ABC INC's most trusted linux developer, I have been tasked with creating a script backup.sh which automatically backs up any of these files that have been updated within the past 24 hours.
@@ -75,7 +75,6 @@ done
 tar -czvf $backupFileName ${toBackup[@]}
 # [TASK 13]
 mv $backupFileName $destDirAbsPath
-# Congratulations! You completed the final project for this course!
 
 ```
 For the original file, please refer to [backup.sh](https://github.com/xzZero/DataEng_IBM/blob/main/6%20-%20Hands-on%20Introduction%20to%20Linux%20Commands%20and%20Shell%20Scripting/week4/backup.sh)
