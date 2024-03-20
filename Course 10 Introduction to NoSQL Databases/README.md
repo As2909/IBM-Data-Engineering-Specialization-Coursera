@@ -20,7 +20,7 @@ Tech: Cloudant, MongoDB, Cassandra
 ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/1-replication.png "1")
 
 - Task 2: Create an index for key "director", on the database movies using the HTTP API. (1pts) \
-![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/2-index-director.PNG "2")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/2-index-director.png "2")
 
 - Task 3: Write a query to find all movies directed by Richard Gage using the HTTP API. (1 pts) \
 ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/3-query-director.PNG "3")
