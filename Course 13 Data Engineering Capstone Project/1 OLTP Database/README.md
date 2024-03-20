@@ -14,6 +14,6 @@
 
 #### The [task](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/1%20OLTP%20Database/Task.pdf) are follows:
 - Task 1 - Create a database.
-- Task 2 - Design a table named sales_data \n
-  ![alt text]((https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/1%20OLTP%20Database/1-createtable.png)
+- Task 2 - Design a table named sales_data.
+  ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/1%20OLTP%20Database/1-createtable.png)
 
