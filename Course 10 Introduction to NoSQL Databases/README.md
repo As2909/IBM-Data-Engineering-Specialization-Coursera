@@ -23,31 +23,41 @@ Tech: Cloudant, MongoDB, Cassandra
 ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/2-index-director.png "2")
 
 - Task 3: Write a query to find all movies directed by Richard Gage using the HTTP API. (1 pts) \
-![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/3-query-director.PNG "3")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/3-query-director.png "3")
 
 - Task 4: Create an index for key "title", on the database movies using the HTTP API. (1 pts) \
-![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/4-index-title.PNG "4")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/4-index-title.png "4")
 
 - Task 5: Write a query to list only the keys year and director for the movie `Top Dog` using the HTTP API. (2 pts) \
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/10%20-%20Introduction%20to%20NoSQL%20Databases/Week5/5-query-title.PNG "5")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/5-query-title.png "5")
+
 - Task 6: Export the data from movies database into a file named movies.json. (2 pts)  \
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/10%20-%20Introduction%20to%20NoSQL%20Databases/Week5/6-couchexport.PNG "6")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/6-couchexport.png "6")
+
 - Task 7: Import movies.json into mongodb server into a database named entertainment and collection named movies. (1 pts) \
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/10%20-%20Introduction%20to%20NoSQL%20Databases/Week5/7-mongoimport.PNG "7")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/7-mongoimport.png"7")
+
 - Task 8: Write a mongodb query to find the year in which most number of movies were released. (2 pts) \
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/10%20-%20Introduction%20to%20NoSQL%20Databases/Week5/8-mongo-query.PNG "8")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/8-mongoquery.png "8")
+
 - Task 9: Write a mongodb query to find the count of movies released after the year 1999. (1 pts) \
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/10%20-%20Introduction%20to%20NoSQL%20Databases/Week5/9-mongo-query.PNG "9")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/9-mongoquery.png "9")
+
 - Task 10. Write a query to find out the average votes for movies released in 2007. (2 pts)\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/10%20-%20Introduction%20to%20NoSQL%20Databases/Week5/10-mongo-query.PNG "10")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/10-mongoquery.png "10")
+
 - Task 11 - Export the fields _id, title, year, rating and director from movies collection into a file named partial_data.csv. (2 pts)\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/10%20-%20Introduction%20to%20NoSQL%20Databases/Week5/11-mongoexport.PNG "11")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/11-mongoexport.png "11")
+
 - Task 12 - Import partial_data.csv into cassandra server into a keyspace named entertainment and table named movies. (1 pts) \
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/10%20-%20Introduction%20to%20NoSQL%20Databases/Week5/12-cassandra-import.png "12")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/12-cassandra-import.png "12")
+
 - Task 13 - Write a cql query to count the number of rows in the movies table. (1 pts) \
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/10%20-%20Introduction%20to%20NoSQL%20Databases/Week5/13-cassandra-query.PNG "13")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/13-cassandra-query.png "13")
+
 - Task 14 - Create an index for the column rating in the movies table using cql. (1 pts) \
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/10%20-%20Introduction%20to%20NoSQL%20Databases/Week5/14-cassandra-index.PNG "14")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/14-cassandra-index.png "14")
+
 - Task 15 - Write a cql query to count the number of in the movies that are rated 'G'. (1 pts) \
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/10%20-%20Introduction%20to%20NoSQL%20Databases/Week5/15-cassandra-query.PNG "15")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/15-cassandra-query.png "15")
 
