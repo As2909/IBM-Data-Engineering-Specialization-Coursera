@@ -29,20 +29,20 @@ For this task, we can use the SELECT function to query the size of the database 
 - Task 1.12: Monitor the DAG (1pt)\
 ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2008%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week%205/dag_runs.png)
 - Task 2.1: Start Zookeeper (1pt)\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/8%20-%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week5/start_zookeeper.PNG "start_zookeeper")
-- Task 2.2: Start Kafka server (1pt)\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/8%20-%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week5/start_kafka.PNG "start_kafka")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2008%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week%205/start_zookeeper.png)
+Task 2.2: Start Kafka server (1pt)\
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2008%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week%205/dag_runstart_kafka.png)
 - Task 2.3: Create a topic named toll (1pt)\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/8%20-%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week5/create_toll_topic.PNG "create_toll_topic")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2008%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week%205/create_toll_topic.png)
 - Task 2.4: Download the Toll Traffic Simulator (1pt)\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/8%20-%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week5/download_simulator.PNG "download_simulator")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2008%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week%205/download_simulator.png)
 - Task 2.5: Configure the Toll Traffic Simulator (1pt)\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/8%20-%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week5/configure_simulator.PNG "configure_simulator")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2008%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week%205/configure_simulator.png)
 - Task 2.6: Run the Toll Traffic Simulator (1pt)\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/8%20-%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week5/simulator_output.PNG "simulator_output")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2008%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week%205/simulator_output.png)
 - Task 2.7: Configure streaming_data_reader.py (2pts)\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/8%20-%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week5/streaming_reader_code.PNG "streaming_reader_code")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2008%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week%205/streaming_reader_code.png)
 - Task 2.8: Run streaming_data_reader.py (1pt)\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/8%20-%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week5/data_reader_output.PNG "data_reader_output")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2008%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week%205/data_reader_output.png)
 - Task 2.9: Health check of the streaming data pipeline (1pt)\
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/8%20-%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week5/output_rows.PNG "output_rows")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2008%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week%205/output_rows.png)
