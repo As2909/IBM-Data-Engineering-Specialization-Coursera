@@ -12,7 +12,7 @@ You will download the python script from this link and use it as a template to w
 - Task:
 ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/5%20ETL%20and%20Data%20Pipelines/Week%205/5.get_last_rowid.png)
 
-![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/5%20ETL%20and%20Data%20Pipelines/Week%205/5.get_lastest_records.png)
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/5%20ETL%20and%20Data%20Pipelines/Week%205/5.get_latest_records.png)
 
 ### Part 2: Data Pipelines using Apache AirFlow
 Our data platform includes a Big Data repository that is used for analytics using Machine Learning with Apache Spark. This Big Data repository gets data from several sources including the Data Warehouse and the Web Server log. As data from the web server log is logged, it needs to be added to the Big Data system on a frequent basis - making it an ideal process to automate using a data pipeline.
@@ -26,5 +26,5 @@ In the second exercise, you will get the DAG operational by saving the defined D
 Coding: [process_web_log.py](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/5%20ETL%20and%20Data%20Pipelines/Week%205/process_web_log.py)
 
 - DAG RUN:
-![DAG_RUNS](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/5%20ETL%20and%20Data%20Pipelines/Week%205/5.1.dags_runs.py)
+![DAG_RUNS](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/5%20ETL%20and%20Data%20Pipelines/Week%205/5.1.dags_runs.png)
 
