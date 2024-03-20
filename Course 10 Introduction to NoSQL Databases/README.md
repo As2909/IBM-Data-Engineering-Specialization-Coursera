@@ -17,7 +17,7 @@ Tech: Cloudant, MongoDB, Cassandra
 
 ## Tasks and Solutions
 - Task 1: Replicate a remote database into your Cloudant instance. (1 pts) \
-![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/Week5/1-replication.png "1")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/1-replication.png "1")
 
 - Task 2: Create an index for key "director", on the database movies using the HTTP API. (1pts) \
 ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/Week5/2-index-director.PNG "2")
