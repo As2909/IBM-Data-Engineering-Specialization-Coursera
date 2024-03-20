@@ -10,9 +10,9 @@ Next, you will verify your access to the cloud instance of the postgres server. 
 The final task requires you to automate the extraction of daily incremental data and load yesterday's data into the data warehouse. 
 You will download the python script from this link and use it as a template to write a python script that automatically loads yesterday's data from the production database into the data warehouse. After performing each task, take a screenshot of the command you used and its output, and name the screenshot.
 - Task:
-![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/5%20ETL%20and%20Data%20Pipelines/Week%205/5.get_last_rowid.py)
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/5%20ETL%20and%20Data%20Pipelines/Week%205/5.get_last_rowid.png)
 
-![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/5%20ETL%20and%20Data%20Pipelines/Week%205/5.get_lastest_records.py)
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/5%20ETL%20and%20Data%20Pipelines/Week%205/5.get_lastest_records.png)
 
 ### Part 2: Data Pipelines using Apache AirFlow
 Our data platform includes a Big Data repository that is used for analytics using Machine Learning with Apache Spark. This Big Data repository gets data from several sources including the Data Warehouse and the Web Server log. As data from the web server log is logged, it needs to be added to the Big Data system on a frequent basis - making it an ideal process to automate using a data pipeline.
@@ -25,5 +25,6 @@ In the second exercise, you will get the DAG operational by saving the defined D
 
 Coding: [process_web_log.py](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/5%20ETL%20and%20Data%20Pipelines/Week%205/process_web_log.py)
 
-[DAG_RUNS](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/5%20ETL%20and%20Data%20Pipelines/Week%205/5.1.dags_runs.py)
+- DAG RUN:
+![DAG_RUNS](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/5%20ETL%20and%20Data%20Pipelines/Week%205/5.1.dags_runs.py)
 
