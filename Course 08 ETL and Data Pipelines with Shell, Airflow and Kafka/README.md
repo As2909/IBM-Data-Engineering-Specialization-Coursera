@@ -31,7 +31,7 @@ For this task, we can use the SELECT function to query the size of the database 
 - Task 2.1: Start Zookeeper (1pt)\
 ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2008%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week%205/start_zookeeper.png)
 Task 2.2: Start Kafka server (1pt)\
-![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2008%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week%205/dag_runstart_kafka.png)
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2008%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week%205/start_kafka.png)
 - Task 2.3: Create a topic named toll (1pt)\
 ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2008%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Week%205/create_toll_topic.png)
 - Task 2.4: Download the Toll Traffic Simulator (1pt)\
