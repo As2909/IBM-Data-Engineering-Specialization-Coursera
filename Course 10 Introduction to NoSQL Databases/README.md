@@ -35,7 +35,7 @@ Tech: Cloudant, MongoDB, Cassandra
 ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/6-couchexport.png "6")
 
 - Task 7: Import movies.json into mongodb server into a database named entertainment and collection named movies. (1 pts) \
-![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/7-mongoimport.png"7")
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/7-mongoimport.png "7")
 
 - Task 8: Write a mongodb query to find the year in which most number of movies were released. (2 pts) \
 ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2010%20Introduction%20to%20NoSQL%20Databases/Week%205/8-mongoquery.png "8")
