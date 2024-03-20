@@ -14,7 +14,7 @@
 
 The [task](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/2%20NOSQL%20MONGODB/Week%202/Task.pdf) are follows:
 - Task 1 - Import ‘catalog.json’ into mongodb server into a database named ‘catalog’ and a collection named ‘electronics’
-![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/2%20NOSQL%20MONGODB/Week%202/2.mongoimort.png)
+![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/2%20NOSQL%20MONGODB/Week%202/2.mongoimport.png)
 
 - Task 2 - List out all the databases
 ![alt text](https://github.com/As2909/IBM-Data-Engineering-Specialization-Coursera/blob/main/Course%2013%20Data%20Engineering%20Capstone%20Project/2%20NOSQL%20MONGODB/Week%202/2.list-dbs.png)
